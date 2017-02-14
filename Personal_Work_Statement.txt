@@ -1,0 +1,4 @@
+I verify that I am the sole author of the Java classes MobileRobot.java, RobotMission.java and RobotTesting.java. On the other hand, I only slightly modified the Java class named JMirtoRobot.java, developed by a team led by Dr Franco Raimondi (F.Raimondi@mdx.ac.uk) at Middlesex University. The old version of such file can be found at https://github.com/fraimondi/java-asip/src/uk/ac/mdx/cs/asip/JMirtoRobot.java. I mention the modifications that I made to the class JMirtoRobot.java in the readme.txt file.
+
+Claudio Salvatore De Mutiis
+  
